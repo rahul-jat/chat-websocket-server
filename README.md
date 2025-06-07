@@ -12,7 +12,7 @@ Basic Node.js server with Express, and WebSocket that supports messaging.
 1. **Clone or download the project**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rahul-jat/chat-websocket-server.git
    cd node-server
    ```
 
